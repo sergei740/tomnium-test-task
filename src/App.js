@@ -34,8 +34,10 @@ const useStyles = makeStyles({
 
 function App() {
   const classes = useStyles();
+
   const [rates, setRates] = useState({});
   const [filteredRates, setFilteredRates] = useState(rates);
+
   const getData = () => Promise.resolve(data);
 
   useEffect(() => {
