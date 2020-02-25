@@ -52,7 +52,7 @@ function App() {
 
   const inputHandler = e => {
     const keys = Object.keys(rates).filter(item => {
-      return item.toLowerCase().trim().includes(e.target.value)
+      return item.toLowerCase().trim().indexOf(e.target.value) === 0
     });
     const filteredRates = keys.reduce((acc, item) => {
       return { ...acc, [item]: rates[item] }
