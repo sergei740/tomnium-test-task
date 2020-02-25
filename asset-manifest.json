@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tomnium-test-task/static/css/main.9ae3c21f.chunk.css",
-    "main.js": "/tomnium-test-task/static/js/main.b6b9f6b6.chunk.js",
-    "main.js.map": "/tomnium-test-task/static/js/main.b6b9f6b6.chunk.js.map",
+    "main.js": "/tomnium-test-task/static/js/main.f953ed8f.chunk.js",
+    "main.js.map": "/tomnium-test-task/static/js/main.f953ed8f.chunk.js.map",
     "runtime-main.js": "/tomnium-test-task/static/js/runtime-main.b8c1b81f.js",
     "runtime-main.js.map": "/tomnium-test-task/static/js/runtime-main.b8c1b81f.js.map",
     "static/js/2.6de79882.chunk.js": "/tomnium-test-task/static/js/2.6de79882.chunk.js",
     "static/js/2.6de79882.chunk.js.map": "/tomnium-test-task/static/js/2.6de79882.chunk.js.map",
     "index.html": "/tomnium-test-task/index.html",
-    "precache-manifest.df81d8928a0e644f84880afdd6e3d4f2.js": "/tomnium-test-task/precache-manifest.df81d8928a0e644f84880afdd6e3d4f2.js",
+    "precache-manifest.4c30af7f0dbd763a4d22af1824b57a2a.js": "/tomnium-test-task/precache-manifest.4c30af7f0dbd763a4d22af1824b57a2a.js",
     "service-worker.js": "/tomnium-test-task/service-worker.js",
     "static/css/main.9ae3c21f.chunk.css.map": "/tomnium-test-task/static/css/main.9ae3c21f.chunk.css.map",
     "static/js/2.6de79882.chunk.js.LICENSE.txt": "/tomnium-test-task/static/js/2.6de79882.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b8c1b81f.js",
     "static/js/2.6de79882.chunk.js",
     "static/css/main.9ae3c21f.chunk.css",
-    "static/js/main.b6b9f6b6.chunk.js"
+    "static/js/main.f953ed8f.chunk.js"
   ]
 }

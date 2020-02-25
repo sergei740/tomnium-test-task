@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a8c37dbf76be553024013863426d443",
+    "revision": "d6b2404a7b9884165ac5d96e035ad083",
     "url": "/tomnium-test-task/index.html"
   },
   {
-    "revision": "2d8524eae4de48a13709",
+    "revision": "671f9e8484d140c830f3",
     "url": "/tomnium-test-task/static/css/main.9ae3c21f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tomnium-test-task/static/js/2.6de79882.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d8524eae4de48a13709",
-    "url": "/tomnium-test-task/static/js/main.b6b9f6b6.chunk.js"
+    "revision": "671f9e8484d140c830f3",
+    "url": "/tomnium-test-task/static/js/main.f953ed8f.chunk.js"
   },
   {
     "revision": "5627067b78372833fe17",
